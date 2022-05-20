@@ -23,7 +23,7 @@ export default defineNuxtConfig({
             "meta": [
                 { name: "charset", content: "utf-8" },
                 { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-                { name: 'theme-color', content: '#26bcf1' },
+                { name: 'theme-color', content: '#5c97ee' },
             ],
             "link": [],
             "style": [],

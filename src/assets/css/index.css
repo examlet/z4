@@ -1,6 +1,8 @@
 * {
   scroll-behavior: smooth;
 
+  -webkit-tap-highlight-color: transparent;
+
   box-sizing: border-box !important;
   -moz-box-sizing: border-box !important;
   -webkit-box-sizing: border-box !important;
