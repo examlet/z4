@@ -1,0 +1,28 @@
+* {
+  scroll-behavior: smooth;
+
+  box-sizing: border-box !important;
+  -moz-box-sizing: border-box !important;
+  -webkit-box-sizing: border-box !important;
+}
+
+html,
+body #nuxt {
+  width: 100vw;
+  height: 100vh;
+  color: #444b53;
+  background: #ffffff;
+  user-select: none;
+}
+
+*::-webkit-scrollbar {
+  width: 3px;
+  background-color: #f2f4f7;
+  border-radius: 5px;
+  z-index: 99999;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #5c97ee;
+  border-radius: 5px;
+}
