@@ -8,7 +8,7 @@
                 <h1 fw-500 leading="120%" text="26px xl:62px">
                     Все, что нужно
                     <br xl:hidden />для работы<br hidden sm:block /> со своими<br sm:hidden> клиентами
-                    <img src="/img/vk.svg" alt="ВКонтакте" width="auto" height="auto" h="20px xl:48px" inline />
+                    <img ml-10px src="/img/vk.svg" alt="ВКонтакте" width="auto" height="auto" h="20px xl:48px" inline />
                     вконтакте
                 </h1>
                 <h2 text="center sm:left 14px xl:36px" mt-20px fw-500 leading="110%">
