@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div w-screen h-screen bg="[#ffffff]">
+    <div w-full h-full bg="[#ffffff]">
         <slot />
     </div>
 </template>

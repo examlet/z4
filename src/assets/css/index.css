@@ -9,22 +9,20 @@
 }
 
 html,
-body #nuxt {
-  width: 100vw;
-  height: 100vh;
+body,
+#nuxt {
+  max-width:100%;
   color: #444b53;
   background: #ffffff;
   user-select: none;
 }
 
 *::-webkit-scrollbar {
-  width: 4px;
+  width: 8px;
   background-color: #f2f4f7;
-  border-radius: 4px;
   z-index: 99999;
 }
 
 *::-webkit-scrollbar-thumb {
   background-color: #5c97ee;
-  border-radius: 4px;
 }
