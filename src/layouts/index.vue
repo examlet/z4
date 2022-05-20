@@ -35,7 +35,7 @@ const scrollIntoView = (elementId: string) => {
             </div>
         </header>
 
-        <main fixed left-0 right-0 top-64px bottom-0 pr-10px overflow-y-auto>
+        <main fixed left-0 right-0 top-64px bottom-0 pr-0 overflow-y-auto>
             <slot />
         </main>
 
