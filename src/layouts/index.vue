@@ -21,7 +21,7 @@ const scrollIntoView = (elementId: string) => {
                                     <div bg="[#35495e]" bottom="-6px" w-20px h-2px rounded-4px />
                                 </div>
                             </div>
-                            <span fw-600 text="24px" mb="4px">Quicklify</span>
+                            <span fw-600 text="24px" mb="0">Quicklify</span>
                             <div hidden sm:block>
                                 <QLink secondary @click="scrollIntoView('features')" ml-40px>ВОЗМОЖНОСТИ</QLink>
                                 <QLink secondary @click="scrollIntoView('price')" ml-20px>СТОИМОСТЬ</QLink>
