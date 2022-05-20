@@ -4,7 +4,7 @@
 <template>
     <NuxtLayout name="index">
         <section id="start" pt="48px lg:94px">
-            <div relative w="296px sm:480px md:640px lg:768px xl:1024px 2xl:1280px" h-full mx-auto>
+            <div relative w="298px sm:480px md:640px lg:768px xl:1024px 2xl:1280px" h-full mx-auto>
                 <h1 fw-500 leading="120%" text="26px xl:62px">
                     Все, что нужно
                     <br xl:hidden />для работы<br hidden sm:block /> со своими<br sm:hidden> клиентами
@@ -32,8 +32,9 @@
                         </div>
                     </div>
                 </div>
-
             </div>
+        </section>
+        <section h-400px>
         </section>
     </NuxtLayout>
 </template>

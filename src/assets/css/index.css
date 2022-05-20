@@ -18,13 +18,13 @@ body #nuxt {
 }
 
 *::-webkit-scrollbar {
-  width: 5px;
+  width: 4px;
   background-color: #f2f4f7;
-  border-radius: 5px;
+  border-radius: 4px;
   z-index: 99999;
 }
 
 *::-webkit-scrollbar-thumb {
   background-color: #5c97ee;
-  border-radius: 5px;
+  border-radius: 4px;
 }
